@@ -1,0 +1,12 @@
+{
+  "name": "rocketize-caller-desk",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Consent-gated Rocketize caller desk with a Vapi backend",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
